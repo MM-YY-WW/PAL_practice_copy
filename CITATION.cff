@@ -4,11 +4,35 @@
 # journal={arXiv preprint arXiv:2211.10435},
 # year={2022}
 # }
-@inproceedings{gao2023pal,
-  title={Pal: Program-aided language models},
-  author={Gao, Luyu and Madaan, Aman and Zhou, Shuyan and Alon, Uri and Liu, Pengfei and Yang, Yiming and Callan, Jamie and Neubig, Graham},
-  booktitle={International Conference on Machine Learning},
-  pages={10764--10799},
-  year={2023},
-  organization={PMLR}
-}
+# @inproceedings{gao2023pal,
+#   title={Pal: Program-aided language models},
+#   author={Gao, Luyu and Madaan, Aman and Zhou, Shuyan and Alon, Uri and Liu, Pengfei and Yang, Yiming and Callan, Jamie and Neubig, Graham},
+#   booktitle={International Conference on Machine Learning},
+#   pages={10764--10799},
+#   year={2023},
+#   organization={PMLR}
+# }
+
+cff-version: 1.2.0
+authors:
+  - family-names: "Gao"
+    given-names: "Luyu"
+  - family-names: "Madaan"
+    given-names: "Aman"
+  - family-names: "Zhou"
+    given-names: "Shuyan"
+  - family-names: "Alon"
+    given-names: "Uri"
+  - family-names: "Liu"
+    given-names: "Pengfei"
+  - family-names: "Yang"
+    given-names: "Yiming"
+  - family-names: "Callan"
+    given-names: "Jamie" 
+  - familiy-names: "Neubig"
+    given-names: "Graham"
+title: "Pal: Program-aided language models"
+date-released: 2023
+booktitle: "International Conference on Machine Learning"
+start: 10764
+end: 10799
